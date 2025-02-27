@@ -3,10 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 web Developer
 -------------
-
-* 🛠️ Full Stack & DevOps | Web & API Deployment 
-* 💻 Developing with Django, Node.js, Go, React and managing deployments 
-* 🔹 Currently studying Deployment on Red Hat using systemd for Web Services PM2 for Node.js API
+🛠️ Full Stack & DevOps | Web & API Deployment 
+💻 Developing with Django, Node.js, Go, React and managing deployments 
+🔹 Currently studying Deployment on Red Hat using systemd for Web Services PM2 for Node.js API
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [fampoom1@gmail.com](mailto:fampoom1@gmail.com)
