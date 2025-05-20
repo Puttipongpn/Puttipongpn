@@ -5,7 +5,7 @@ web Developer
 -------------
 🛠️ Full Stack & DevOps | Web & API Deployment 
 | 💻 Developing with Django, Node.js, Go, React and managing deployments 
-| 🔹 Currently studying Deployment on Red Hat using systemd for Web Services PM2 for Node.js API
+| 🔹 Deployment on Red Hat using systemd for Web Services PM2 for Node.js API
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [fampoom1@gmail.com](mailto:fampoom1@gmail.com)
