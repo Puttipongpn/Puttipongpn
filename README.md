@@ -5,6 +5,7 @@ web Developer
 -------------
 🛠️ Full Stack & DevOps | Web & API Deployment 
 | 💻 Developing with Django, Node.js, Go, React and managing deployments 
+
 | 🔹 Deployment on Red Hat using systemd and Web Services PM2 for Node.js API
 
 * 🌍  I'm based in Thailand
